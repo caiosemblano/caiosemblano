@@ -75,7 +75,7 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiosemblano&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiosemblano&layout=compact&theme=tokyonight&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosemblano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas por Caio">
 </div>
 
