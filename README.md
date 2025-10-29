@@ -5,7 +5,7 @@
   </h1>
   
   <p>
-    <strong>Estudante de Engenharia de Software no INATEL [cite: 8] | Pesquisador de Iniciação Científica (IA/ML) [cite: 15, 16]</strong>
+    <strong>Estudante de Engenharia de Software no INATEL | Pesquisador de Iniciação Científica (IA/ML)</strong>
   </p>
   
   <p>
@@ -19,11 +19,11 @@
 
 Atualmente, meu foco se divide em duas grandes áreas de paixão:
 
-* [cite_start]🤖 **Inteligência Artificial & Deep Learning:** Como Pesquisador de IC no **eHealth Inatel** [cite: 15][cite_start], eu trabalho diretamente com **Visão Computacional**[cite: 13]. [cite_start]Minha pesquisa envolve a expansão de datasets de imagens médicas usando **Data Augmentation** [cite: 13] [cite_start]e **Redes Adversariais Generativas (GANs)** [cite: 13][cite_start], com o objetivo de otimizar a performance de modelos de IA[cite: 17].
-    * [cite_start]*Tecnologias de IA:* Python [cite: 10][cite_start], PyTorch [cite: 11][cite_start], TensorFlow [cite: 11][cite_start], Scikit-learn[cite: 11].
+* 🤖 **Inteligência Artificial & Deep Learning:** Como Pesquisador de IC no **eHealth Inatel**, eu trabalho diretamente com **Visão Computacional**. Minha pesquisa envolve a expansão de datasets de imagens médicas usando **Data Augmentation** e **Redes Adversariais Generativas (GANs)**, com o objetivo de otimizar a performance de modelos de IA.
+    * *Tecnologias de IA:* Python, PyTorch, TensorFlow, Scikit-learn.
 
 * ⚙️ **Engenharia de Software & Plataformas de Dados:** Tenho forte interesse em arquitetura de backend e serviços de base. Para aprimorar minhas habilidades, estou desenvolvendo projetos pessoais que simulam desafios reais:
-    * [cite_start]**Plataforma de Streaming:** Desenvolvendo um backend de alta performance em **Golang**[cite: 10], utilizando **MongoDB** e **APIs RESTful** para servir conteúdo a um frontend em **React**.
+    * **Plataforma de Streaming:** Desenvolvendo um backend de alta performance em **Golang**, utilizando **MongoDB** e **APIs RESTful** para servir conteúdo a um frontend em **React**.
     * **Desenvolvimento Full-Stack:** Criei um app mobile para a FETIN usando **Flutter (Dart)** e **Firebase Firestore**.
     * *Interesses:* Plataforma de Dados, Plugins de Tecnologia e Serviços de Base (logs, auditoria, monetização).
 
@@ -37,7 +37,6 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </p>
@@ -89,6 +88,4 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:semblanocaio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+    <img src="
