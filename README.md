@@ -45,7 +45,7 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
   <p>
     <img src="https://img.shields.io/badge/Express-02569B?style=for-the-badge&logo=express&logoColor=white" alt="express">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=Nest&logoColor=white" alt="Nest.js">
+    <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nestdotjs&logoColor=white" alt="Nest.js">
   </p>
 
   <p><strong>Bancos de Dados</strong></p>
