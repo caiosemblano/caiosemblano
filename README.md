@@ -20,12 +20,10 @@
 Atualmente, meu foco se divide em duas grandes áreas de paixão:
 
 * 🤖 **Inteligência Artificial & Deep Learning:** Como Pesquisador de IC no **eHealth Inatel**, eu trabalho diretamente com **Visão Computacional**. Minha pesquisa envolve a expansão de datasets de imagens médicas usando **Data Augmentation** e **Redes Adversariais Generativas (GANs)**, com o objetivo de otimizar a performance de modelos de IA.
-    * *Tecnologias de IA:* Python, PyTorch, TensorFlow, Scikit-learn.
+    * *Tecnologias de IA:* Python, TensorFlow.
 
 * ⚙️ **Engenharia de Software & Plataformas de Dados:** Tenho forte interesse em arquitetura de backend e serviços de base. Para aprimorar minhas habilidades, estou desenvolvendo projetos pessoais que simulam desafios reais:
     * **Plataforma de Streaming:** Desenvolvendo um backend de alta performance em **Golang**, utilizando **MongoDB** e **APIs RESTful** para servir conteúdo a um frontend em **React**.
-    * **Desenvolvimento Full-Stack:** Criei um app mobile para a FETIN usando **Flutter (Dart)** e **Firebase Firestore**.
-    * *Interesses:* Plataforma de Dados, Plugins de Tecnologia e Serviços de Base (logs, auditoria, monetização).
 
 ---
 
