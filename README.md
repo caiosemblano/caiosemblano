@@ -38,13 +38,14 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/TypeScript-0175C2?style=for-the-badge&logo=typescript&logoColor=white" alt="Dart">
   </p>
   
   <p><strong>Desenvolvimento Web</strong></p>
   <p>
-    <img src="https://img.shields.io/badge/Express-02569B?style=for-the-badge&logo=express&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/Express-02569B?style=for-the-badge&logo=express&logoColor=white" alt="express">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=Nest&logoColor=white" alt="Nest.js">
   </p>
 
   <p><strong>Bancos de Dados</strong></p>
