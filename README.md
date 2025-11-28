@@ -43,7 +43,7 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
   
   <p><strong>Desenvolvimento Web</strong></p>
   <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/Express-02569B?style=for-the-badge&logo=express&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   </p>
 
