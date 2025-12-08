@@ -65,8 +65,17 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiosemblano&layout=compact&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosemblano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas por Caio">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosemblano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosemblano&layout=compact&theme=vision-friendly"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=caiosemblano&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
