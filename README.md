@@ -67,7 +67,6 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiosemblano&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=caiosemblano&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
