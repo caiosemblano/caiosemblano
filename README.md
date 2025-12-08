@@ -65,17 +65,17 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosemblano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosemblano&layout=compact&theme=vision-friendly"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=caiosemblano&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=caiosemblano&theme=dark" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiosemblano&theme=react-dark&bg_color=0D1117&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=caiosemblano&theme=dark&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
