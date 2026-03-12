@@ -62,6 +62,10 @@ Atualmente, meu foco se divide em duas grandes áreas de paixão:
 
 ---
 
+  ![Caio Semblano GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosemblano&show_icons=true&theme=gotham)
+
+---
+
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
