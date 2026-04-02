@@ -1,86 +1,38 @@
-<div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrRPOhuB/giphy.gif" width="30px" alt="Waving hand">
-    Olá! Eu sou o Caio Semblano Silva
-  </h1>
-  
-  <p>
-    <strong>Estudante de Engenharia de Software no INATEL | Pesquisador de Iniciação Científica (IA/ML)</strong>
-  </p>
-  
-  <p>
-    Sou um desenvolvedor apaixonado por construir soluções robustas, desde arquiteturas de backend escaláveis até a implementação de modelos complexos de Inteligência Artificial.
-  </p>
-</div>
+# Olá! Eu sou o Caio Semblano Silva 👋
 
----
+Estudante de Engenharia de Software no INATEL. Sou um desenvolvedor apaixonado por construir soluções robustas, com foco em arquiteturas de backend escaláveis, APIs de alta performance e integração de sistemas.
 
-###  Sobre Mim
+## 🔭 Sobre Mim
 
-Atualmente, meu foco se divide em duas grandes áreas de paixão:
+Atualmente, meu foco principal é em **Engenharia de Software**. Tenho forte interesse em arquitetura de backend, serviços de base, persistência de dados e desenvolvimento de APIs com transações seguras. 
 
-*  **Inteligência Artificial & Deep Learning:** Como Pesquisador de IC no **eHealth Inatel**, eu trabalho diretamente com **Visão Computacional**. Minha pesquisa envolve a expansão de datasets de imagens médicas usando **Data Augmentation** e **Redes Adversariais Generativas (GANs)**, com o objetivo de otimizar a performance de modelos de IA.
-    * *Tecnologias de IA:* Python, TensorFlow.
+Para aprimorar minhas habilidades, desenvolvo projetos que simulam desafios reais, aplicando conceitos avançados como transações ACID, arquitetura em camadas (N-Tier) e comunicação eficiente entre microsserviços.
 
-*  **Engenharia de Software & Plataformas de Dados:** Tenho forte interesse em arquitetura de backend e serviços de base. Para aprimorar minhas habilidades, estou desenvolvendo projetos pessoais que simulam desafios reais:
-    * **Plataforma de Streaming:** Desenvolvendo um backend de alta performance em **Golang**, utilizando **MongoDB** e **APIs RESTful** para servir conteúdo a um frontend em **React**.
+## 💻 Minha Stack de Tecnologias
 
----
+* **Linguagens:** Go, TypeScript, JavaScript, Java
+* **Frameworks e Bibliotecas:** React, NestJS, Express.js, Spring Boot, Gin
+* **Bancos de Dados e ORMs:** PostgreSQL, MongoDB, SQLite, Prisma ORM
+* **Ferramentas e DevOps:** Docker, Node.js
 
-### 🛠️ Minha Stack de Tecnologias
+## 🚀 Meus Projetos
+
+* **[MagicStream Movies](https://github.com/caiosemblano/MagicStreamMovies):** Uma plataforma de streaming full-stack com catálogo de filmes, reprodução via YouTube, autenticação JWT e recomendações personalizadas. Backend construído em **Go** com **Gin**, e frontend moderno em **React** com **TypeScript** e **MongoDB**.
+* **API de Carteira Digital (Mini-Ledger):** API RESTful de alta performance que simula operações essenciais de uma carteira digital. Foco total em consistência de dados com transações ACID reais, isolamento e atomicidade. Desenvolvida com **TypeScript**, **NestJS**, **Prisma** e **PostgreSQL**.
+* **[Expense Tracker CLI](https://github.com/caiosemblano/expense-tracker):** Aplicação de linha de comando (CLI) construída em **Go** utilizando o framework **Cobra** para gerenciamento de despesas pessoais, categorias, orçamento mensal e exportação de dados em CSV.
+* **Paginação em Java com Spring Boot:** Projeto com Arquitetura em Camadas (N-Tier) demonstrando o uso de paginação com Spring Data JPA e geração massiva de dados com Java Faker. Utiliza **Java**, **Spring Boot** e **PostgreSQL** via **Docker**.
+* **Spiral Sounds:** Uma aplicação web full-stack para uma loja online de discos de vinil clássicos. Possui autenticação segura, catálogo e carrinho de compras. Desenvolvida com **Node.js**, **Express.js**, **SQLite3** e frontend puro em **HTML/CSS/JS**.
+* **API de Busca de Startups:** Projeto focado nos fundamentos de APIs e protocolo HTTP, implementando um CRUD completo para gerenciar um cadastro de startups usando **Node.js** e **Express.js**.
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-  <p><strong>Linguagens de Programação</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-0175C2?style=for-the-badge&logo=typescript&logoColor=white" alt="Dart">
-  </p>
-  
-  <p><strong>Desenvolvimento Web</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Express-02569B?style=for-the-badge&logo=express&logoColor=white" alt="express">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
-  </p>
 
-  <p><strong>Bancos de Dados</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-    <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caiosemblano&theme=dracula&hide_border=true)
 
-  <p><strong>Ferramentas & DevOps</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </p>
 </div>
 
----
+## 📫 Como me encontrar
 
-  ![Caio Semblano GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosemblano&show_icons=true&theme=gotham)
-
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiosemblano&theme=react-dark&bg_color=0D1117&hide_border=true" />
-</div>
-
----
-
-### 📫 Como me encontrar
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/caio-semblano" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:semblanocaio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+* **LinkedIn:** [Insira seu link do LinkedIn]
+* **E-mail:** [Insira seu E-mail]
