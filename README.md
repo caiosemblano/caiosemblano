@@ -34,5 +34,4 @@ Para aprimorar minhas habilidades, desenvolvo projetos que simulam desafios reai
 
 ## 📫 Como me encontrar
 
-* **LinkedIn:** [Insira seu link do LinkedIn]
-* **E-mail:** [Insira seu E-mail]
+* **LinkedIn:** [https://www.linkedin.com/in/caio-semblano/]
