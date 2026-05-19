@@ -1,28 +1,85 @@
 # Olá! Eu sou o Caio Semblano Silva 👋
 
-Estudante de Engenharia de Software no INATEL. Sou um desenvolvedor apaixonado por construir soluções robustas, com foco em arquiteturas de backend escaláveis, APIs de alta performance e integração de sistemas.
+Desenvolvedor apaixonado por **Engenharia de Software** com foco em arquiteturas escaláveis, APIs de alta performance e soluções robustas. Estudante de Engenharia de Software no INATEL, combinando conhecimento acadêmico com experiência prática em desenvolvimento full-stack.
 
 ## 🔭 Sobre Mim
 
-Atualmente, meu foco principal é em **Engenharia de Software**. Tenho forte interesse em arquitetura de backend, serviços de base, persistência de dados e desenvolvimento de APIs com transações seguras. 
+Meu foco principal está em **Backend Engineering** e **Arquitetura de Software**. Tenho forte interesse em:
 
-Para aprimorar minhas habilidades, desenvolvo projetos que simulam desafios reais, aplicando conceitos avançados como transações ACID, arquitetura em camadas (N-Tier) e comunicação eficiente entre microsserviços.
+- 🏗️ **Arquitetura de Backend**: Serviços de base, persistência de dados, padrões arquiteturais (N-Tier, Domain-Driven Design)
+- 💾 **Banco de Dados**: Transações ACID, otimização de queries, design relacional
+- 🔌 **APIs de Alta Performance**: REST, comunicação eficiente, escalabilidade horizontal
+- 🚀 **DevOps & Infraestrutura**: Containerização, orquestração, CI/CD
+
+Para aprimorar minhas habilidades, desenvolvo projetos que simulam desafios reais, aplicando conceitos avançados como transações ACID, arquitetura em camadas (N-Tier) e comunicação eficiente entre serviços.
 
 ## 💻 Minha Stack de Tecnologias
 
-* **Linguagens:** Go, TypeScript, JavaScript, Java
-* **Frameworks e Bibliotecas:** React, NestJS, Express.js, Spring Boot, Gin
-* **Bancos de Dados e ORMs:** PostgreSQL, MongoDB, SQLite, Prisma ORM
-* **Ferramentas e DevOps:** Docker, Node.js
+### **Linguagens** 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### **Backend & Frameworks**
+- **TypeScript/Node.js**: NestJS, Express.js
+- **Java**: Spring Boot, Spring Data JPA
+- **Go**: Gin Framework
+
+### **Frontend & UI**
+- **React** com TypeScript
+- **CSS/Tailwind CSS**
+
+### **Bancos de Dados & ORMs**
+- **SQL**: PostgreSQL, SQLite
+- **NoSQL**: MongoDB
+- **ORMs**: Prisma ORM, Spring Data JPA
+
+### **DevOps & Ferramentas**
+- **Docker** & Docker Compose
+- **Git & GitHub**
+- **Node.js & npm/yarn**
 
 ## 🚀 Meus Projetos
 
-* **[MagicStream Movies](https://github.com/caiosemblano/MagicStreamMovies):** Uma plataforma de streaming full-stack com catálogo de filmes, reprodução via YouTube, autenticação JWT e recomendações personalizadas. Backend construído em **Go** com **Gin**, e frontend moderno em **React** com **TypeScript** e **MongoDB**.
-* **API de Carteira Digital (Mini-Ledger):** API RESTful de alta performance que simula operações essenciais de uma carteira digital. Foco total em consistência de dados com transações ACID reais, isolamento e atomicidade. Desenvolvida com **TypeScript**, **NestJS**, **Prisma** e **PostgreSQL**.
-* **[Expense Tracker CLI](https://github.com/caiosemblano/expense-tracker):** Aplicação de linha de comando (CLI) construída em **Go** utilizando o framework **Cobra** para gerenciamento de despesas pessoais, categorias, orçamento mensal e exportação de dados em CSV.
-* **Paginação em Java com Spring Boot:** Projeto com Arquitetura em Camadas (N-Tier) demonstrando o uso de paginação com Spring Data JPA e geração massiva de dados com Java Faker. Utiliza **Java**, **Spring Boot** e **PostgreSQL** via **Docker**.
-* **Spiral Sounds:** Uma aplicação web full-stack para uma loja online de discos de vinil clássicos. Possui autenticação segura, catálogo e carrinho de compras. Desenvolvida com **Node.js**, **Express.js**, **SQLite3** e frontend puro em **HTML/CSS/JS**.
-* **API de Busca de Startups:** Projeto focado nos fundamentos de APIs e protocolo HTTP, implementando um CRUD completo para gerenciar um cadastro de startups usando **Node.js** e **Express.js**.
+### **[MagicStream Movies](https://github.com/caiosemblano/MagicStreamMovies)** 🎬
+Plataforma de streaming full-stack com catálogo de filmes, reprodução integrada via YouTube, autenticação JWT segura e sistema de recomendações.
+- **Stack**: TypeScript, Go, React, MongoDB, Express.js
+- **Destaques**: Autenticação JWT, integração com APIs externas, interface responsiva
+
+### **[API Carteira Digital (Mini-Ledger)](https://github.com/caiosemblano/api-carteira-digital)** 💳
+API RESTful de alta performance que simula operações essenciais de uma carteira digital. Foco total em consistência de dados com transações ACID reais e garantia de integridade financeira.
+- **Stack**: TypeScript, Node.js, PostgreSQL, Prisma ORM
+- **Destaques**: Transações ACID, validações complexas, operações financeiras seguras
+
+### **[Java Deep Dive](https://github.com/caiosemblano/java-deep-dive)** ☕
+Projeto educacional aprofundando conceitos avançados de Java: padrões de design, programação orientada a objetos, estruturas de dados e boas práticas.
+- **Stack**: Java puro
+- **Destaques**: Padrões de design, SOLID principles, estruturas de dados
+
+### **[Frontend Spring Deep Dive](https://github.com/caiosemblano/frontend-spring-deep-dive)** 🎨
+Interface front-end para explorar conceitos de Spring Boot. Implementação com React e design responsivo.
+- **Stack**: TypeScript, React, CSS/Tailwind
+- **Destaques**: Componentes reutilizáveis, design moderno
+
+### **[Spiral Sounds](https://github.com/caiosemblano/spiral-sounds)** 🎵
+Aplicação web full-stack para uma loja online de discos de vinil clássicos. Possui autenticação segura, catálogo robusto e carrinho de compras inteligente.
+- **Stack**: Node.js, Express.js, TypeScript, React, PostgreSQL
+- **Destaques**: E-commerce completo, autenticação segura, gerenciamento de carrinho
+
+### **[API de Busca de Startups](https://github.com/caiosemblano/startups-api)** 🚀
+Projeto focado nos fundamentos de APIs e protocolo HTTP, implementando um CRUD completo para gerenciar um cadastro de startups com validações e boas práticas.
+- **Stack**: Node.js, Express.js, JavaScript
+- **Destaques**: Fundamentos de APIs REST, CRUD operations, validações
+
+## 🎯 Áreas de Interesse
+
+- ✅ **Arquitetura de Sistemas**: Microserviços, escalabilidade, design de APIs
+- ✅ **Otimização de Performance**: Query optimization, caching, processamento de dados em massa
+- ✅ **Banco de Dados Avançado**: Replicação, sharding, transações distribuídas
+- ✅ **Clean Code & Best Practices**: SOLID principles, design patterns, code reviews
+- ✅ **Algoritmos & Estruturas de Dados**: Otimização de soluções, análise de complexidade
 
 ## 📊 Estatísticas do GitHub
 
@@ -32,6 +89,15 @@ Para aprimorar minhas habilidades, desenvolvo projetos que simulam desafios reai
 
 </div>
 
-## 📫 Como me encontrar 
+## 📫 Como me encontrar
 
-* **[LinkedIn](https://www.linkedin.com/in/caio-semblano/)**
+- **[LinkedIn](https://www.linkedin.com/in/caio-semblano/)** - Vamos conversar sobre tech e oportunidades!
+- **[GitHub](https://github.com/caiosemblano)** - Explore meus projetos
+
+---
+
+<div align="center">
+  
+  *"Construindo soluções robustas, uma linha de código por vez."* 💻
+  
+</div>
