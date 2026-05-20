@@ -32,7 +32,7 @@ Para aprimorar minhas habilidades, desenvolvo projetos que simulam desafios reai
 - **CSS/Tailwind CSS**
 
 ### **Bancos de Dados & ORMs**
-- **SQL**: PostgreSQL, SQLite
+- **SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL**: MongoDB
 - **ORMs**: Prisma ORM, Spring Data JPA
 
