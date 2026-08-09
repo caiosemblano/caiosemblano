@@ -45,7 +45,7 @@ Meu foco principal está em Backend Engineering, Arquitetura de Software e Quali
 ## Meus Projetos
 
 ### Plataforma de Mercado Financeiro e Investimentos (Em Desenvolvimento)
-Projeto de aplicação multiplataforma focado no mercado financeiro. Desenvolvido com Spring Boot e arquitetura Monorepo utilizando Turborepo. O sistema simula carteiras de investimento e arenas financeiras baseando-se em indicadores macroeconômicos e fundamentalistas (como P/L, EV/EBITDA e ROE).
+Projeto de aplicação multiplataforma focado no mercado financeiro. Desenvolvido com Spring Boot em arquitetura Monorepo. O sistema simula carteiras de investimento e arenas financeiras baseando-se em indicadores macroeconômicos e fundamentalistas (como P/L, EV/EBITDA e ROE).
 
 ### [MagicStream Movies](https://github.com/caiosemblano/MagicStreamMovies)
 Plataforma de streaming com catálogo de filmes, integração de player de vídeo, autenticação JWT e sistema de recomendações.
